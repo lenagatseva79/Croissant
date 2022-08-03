@@ -10,12 +10,14 @@ p {
 .example-photo {
     display: block;
     text-align: center;
-    max-width: 750px;
     border-radius: 10px;
+    margin-bottom: 20px;
+    max-width: 750px;
+}
+footer {
+    text-align: center;
 }
 .links {
-    display: block;
-    text-align: center;
     margin: 10px;
     color: green;
 }
